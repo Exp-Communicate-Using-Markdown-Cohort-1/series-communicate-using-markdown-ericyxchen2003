@@ -8,3 +8,7 @@ This a meaningful context.
 #include <iostream>
 using namespace std;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
